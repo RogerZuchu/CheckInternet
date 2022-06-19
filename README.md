@@ -44,4 +44,4 @@ public class InternetConnectionManager {
 <img width="1680" alt="image" src="https://user-images.githubusercontent.com/107794765/174480457-889c245a-8992-4f23-a2f2-aa93dd3bd81c.png">
 
 
-            $0.withMemoryRebound(to: sockaddr.self, capacity: 1) {
+       
