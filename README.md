@@ -1,7 +1,7 @@
 # CheckInternet
 
 # Step 1 
-# Tạo file Swift 
+# Tạo file Swift đặt tên InteretExt
 
 
 # Step 2
